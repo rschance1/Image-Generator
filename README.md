@@ -1,16 +1,9 @@
-# flutter_app
+# Image-generator
 
-A new Flutter application.
+Sample mobile app showing how to fetch images and text from a fake test API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
